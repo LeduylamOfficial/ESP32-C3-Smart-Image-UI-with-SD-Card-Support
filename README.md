@@ -1,6 +1,7 @@
 # ESP32-C3 Smart Image UI with SD Card Support
 
-Vietnamese:
+VIETNAMESE:
+
 Dự án giao diện Image thông minh sử dụng chip **ESP32-C3**, màn hình tròn **TFT GC9A01**, và mô-đun **thẻ nhớ SD** để lưu trữ hình ảnh/dữ liệu. 
 
 ## 🛠️ Sơ đồ đấu nối phần cứng (Pinout)
@@ -37,7 +38,8 @@ Do ESP32-C3 được cấu hình tách biệt bộ chân để tránh xung độ
 - Tách độc lập bus SPI giúp nạp thẻ SD song song với màn hình không bị treo (`Failed`).
 - Thiết kế bo góc UI giao diện chính và các hiệu ứng chuyển màn hình nút bấm.
 
-- English:
+
+English:
 # ESP32-C3 Smart Image UI with SD Card Support
 
 This smart image UI project uses the **ESP32-C3** chip, a **G-9A01** TFT circular display, and an **SD ​​card** module for image/data storage.
